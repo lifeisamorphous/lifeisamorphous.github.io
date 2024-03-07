@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Abyss"
+date: 2021-06-17
+description: 
+image: /assets/images/seated_giant.jpg
+author: ET
+tags:
+  - Philosophy
+---
+
+"He who fights with monsters should look to it that he himself does not become a monster. And if you gaze long into an abyss, the abyss also gazes into you."
+
+<i>F. Nietzsche </i>
+
+<b>About painting:</b> <e>Seated Giant</e> by Francisco de Goya
+
+
+
